@@ -4,12 +4,23 @@
 
 ## 学习速查
 
+Swift 语言书籍：https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+
+Swift 标准库：https://developer.apple.com/documentation/swift
+
+SwiftUI by Example: https://www.hackingwithswift.com/quick-start/swiftui
+
+Hacking with SwiftUI: https://www.hackingwithswift.com/books/ios-swiftui
+
+SwiftUI 标准库：
 
 SwiftUI Cheatsheet: 
 
 https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
 
 https://github.com/Jinxiansen/SwiftUI
+
+https://fuckingswiftui.com/
 
 戴名的小册子：https://github.com/ming1016/SwiftPamphletApp
 
@@ -34,6 +45,7 @@ https://www.jianshu.com/p/25933fcc400e
 
 https://1pxup.ook.fun/post/2022-12/in-apps-purchase-server.html
 
+Pager 可以用在照片轮播：https://github.com/fermoya/SwiftUIPager
 
 ## Future 库
 
@@ -54,6 +66,8 @@ mobile 数据库，替代 coredata 和 sqlite：https://github.com/realm/realm-s
 各种Kit 的extension：https://github.com/SwifterSwift/SwifterSwift
 
 Code Gen：https://github.com/SwiftGen/SwiftGen
+
+加密混淆库：https://github.com/rockbruno/swiftshield
 ## App 例子
 
 Mastodon 客户端（官方称这app可以拿来学SwiftUI）：https://github.com/Dimillian/IceCubesApp
