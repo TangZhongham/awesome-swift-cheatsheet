@@ -13,7 +13,16 @@ https://github.com/Jinxiansen/SwiftUI
 
 戴名的小册子：https://github.com/ming1016/SwiftPamphletApp
 
+### animation
+
+https://github.com/amosgyamfi/open-swiftui-animations
+
+https://github.com/GetStream/purposeful-ios-animations
+
 ## 不远处可用的库
+
+比较牛逼的 Grid 库，可以用来展示详情页：https://github.com/exyte/Grid
+
 
 JSON 处理：https://github.com/SwiftyJSON/SwiftyJSON
 
@@ -45,8 +54,16 @@ mobile 数据库，替代 coredata 和 sqlite：https://github.com/realm/realm-s
 各种Kit 的extension：https://github.com/SwifterSwift/SwifterSwift
 
 Code Gen：https://github.com/SwiftGen/SwiftGen
- ## App 例子
+## App 例子
 
- Telegram on Mac: https://github.com/overtake/TelegramSwift
+Mastodon 客户端（官方称这app可以拿来学SwiftUI）：https://github.com/Dimillian/IceCubesApp
+
+Damus iOS: https://github.com/damus-io/damus
+
+Wechat: https://github.com/wxxsw/SwiftUI-WeChat
+
+Telegram on Mac: https://github.com/overtake/TelegramSwift
 
 GitHub iOS client: https://github.com/khoren93/SwiftHub
+
+V2EX: https://github.com/isaced/V2exOS
