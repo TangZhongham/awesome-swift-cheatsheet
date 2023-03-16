@@ -32,14 +32,6 @@ Awesome iOS: https://github.com/vsouza/awesome-ios
 
 官方数据结构：https://github.com/apple/swift-collections
 
-### animation
-
-https://github.com/amosgyamfi/open-swiftui-animations
-
-https://github.com/GetStream/purposeful-ios-animations
-
-Popup View: https://github.com/exyte/PopupView
-
 ## 不远处可用的库
 
 比较牛逼的 Grid 库，可以用来展示详情页：https://github.com/exyte/Grid
@@ -49,6 +41,8 @@ PopOver 库：https://github.com/aheze/Popovers
 Pager 可以用在照片轮播：https://github.com/fermoya/SwiftUIPager
 
 JSON 处理：https://github.com/SwiftyJSON/SwiftyJSON
+
+转动眼睛模拟：https://github.com/paloamit/SwiftUI-Animations/blob/main/EyeAnimation/EyeAnimation/ContentView.swift
 
 内购（也推荐了很多付费的，也可以试试官方的）：
 
@@ -103,7 +97,26 @@ Find My:  https://github.com/seemoo-lab/openhaystack
 
 聊天系统：https://github.com/MessageKit/MessageKit
 
+## SwiftUI Animation
+
+有很多项目可以通过 recently update 筛选近期优秀项目，可能没几个星
+
+https://github.com/amosgyamfi/open-swiftui-animations
+
+https://github.com/GetStream/purposeful-ios-animations
+
+Popup View: https://github.com/exyte/PopupView
+
+https://github.com/paloamit/SwiftUI-Animations
+
+https://github.com/gadirom/Art-in-Swift
+
+https://github.com/Arvindcs/SwiftUI-Animation
+
+
 ## App 例子
+
+一个安卓转iOS 老哥很好的项目：https://github.com/BrianMwas/Qlick
 
 Mastodon 客户端（官方称这app可以拿来学SwiftUI）：https://github.com/Dimillian/IceCubesApp
 
