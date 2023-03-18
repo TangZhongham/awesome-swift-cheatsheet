@@ -118,7 +118,19 @@ https://github.com/Arvindcs/SwiftUI-Animation
 
 ## App 例子
 
+ios 开源 app ：https://github.com/dkhamsing/open-source-ios-apps
+
 一个安卓转iOS 老哥很好的项目：https://github.com/BrianMwas/Qlick
+
+值得学习的也很多：https://github.com/TheCodeMonks/NYTimes-iOS
+
+同 https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine
+
+Morty: https://github.com/Dimillian/MortyUI
+
+https://github.com/maxhumber/BreadBuddy
+
+多个项目 https://github.com/FranckNdame/swiftui.builds
 
 Mastodon 客户端（官方称这app可以拿来学SwiftUI）：https://github.com/Dimillian/IceCubesApp
 
@@ -127,6 +139,8 @@ SwiftUI + CoreML + Stable Diffusion: https://github.com/huggingface/swift-coreml
 Clash: https://github.com/yichengchen/clashX
 
 Damus iOS: https://github.com/damus-io/damus
+
+EhPanda https://github.com/EhPanda-Team/EhPanda
 
 DevToys: https://github.com/ObuchiYuki/DevToysMac
 
@@ -139,3 +153,10 @@ Telegram on Mac: https://github.com/overtake/TelegramSwift
 GitHub iOS client: https://github.com/khoren93/SwiftHub
 
 V2EX: https://github.com/isaced/V2exOS
+
+https://github.com/PankajGaikar/Instagram-Clone-SwiftUI
+
+https://github.com/denoni/SpotifyClone
+
+
+Firebase Authentication： https://github.com/sgr-ksmt/FireTodo  https://github.com/peterfriese/MakeItSo
