@@ -40,6 +40,8 @@ Awesome iOS: https://github.com/vsouza/awesome-ios
 
 PopOver 库：https://github.com/aheze/Popovers
 
+Alert 库。
+
 Pager 可以用在照片轮播：https://github.com/fermoya/SwiftUIPager
 
 JSON 处理：https://github.com/SwiftyJSON/SwiftyJSON
