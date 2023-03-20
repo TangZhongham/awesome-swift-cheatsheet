@@ -40,7 +40,9 @@ Awesome iOS: https://github.com/vsouza/awesome-ios
 
 PopOver 库：https://github.com/aheze/Popovers
 
-Alert 库。
+Alert 库。https://github.com/elai950/AlertToast
+
+Stepper https://github.com/badrinathvm/StepperView
 
 Pager 可以用在照片轮播：https://github.com/fermoya/SwiftUIPager
 
