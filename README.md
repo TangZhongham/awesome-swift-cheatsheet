@@ -38,6 +38,9 @@ Awesome iOS: https://github.com/vsouza/awesome-ios
 
 比较牛逼的 Grid 库，可以用来展示详情页：https://github.com/exyte/Grid
 
+
+好看的 Grid：https://github.com/unsplash/swiftui-lazycollectionview
+
 PopOver 库：https://github.com/aheze/Popovers
 
 Alert 库。https://github.com/elai950/AlertToast
@@ -45,6 +48,8 @@ Alert 库。https://github.com/elai950/AlertToast
 Stepper https://github.com/badrinathvm/StepperView
 
 Pager 可以用在照片轮播：https://github.com/fermoya/SwiftUIPager
+
+卡片滑动缩小 animation https://www.youtube.com/embed/GFV6dIhXFHQ
 
 JSON 处理：https://github.com/SwiftyJSON/SwiftyJSON
 
